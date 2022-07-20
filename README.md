@@ -1,4 +1,3 @@
 # QR-Code-Challenge
-My first Frontend Challenge
-In the qr-code.html is found the html code of the challenge
-In the qr-code.css is found the css code of the challenge
+
+![QR-Code-Challenge-Screenshot](https://user-images.githubusercontent.com/109520753/180058375-b61d430c-b747-46f1-b80a-9ed21d575c86.png)
